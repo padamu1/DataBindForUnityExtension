@@ -1,0 +1,16 @@
+{
+  "name": "com.simulfactory.databindforunityextension",
+  "version": "1.0.0",
+  "displayName": "DataBindForUnityExtension",
+  "description": "This package need to Data Bind For Unity pacakge on unity asset store",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Mywatt",
+    "email": "padamu1@naver.com",
+    "url": "https://github.com/padamu1"
+  }
+}
